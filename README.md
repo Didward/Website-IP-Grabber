@@ -41,3 +41,5 @@ Copy then paste into terminal and press enter!: <br>
 -----------------------------------------------------------------------------------------
 # Screenshots 📷
 
+![example](https://user-images.githubusercontent.com/86981999/201498918-8c495741-0e58-4343-b6cd-faa164a2d7af.png)
+
