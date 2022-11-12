@@ -28,7 +28,7 @@
 ------------------------------------------------------------------------------------------------
 
 <h3><strong>[ RECOMMENDED QUICK INSTALL ] 😉⏩</strong></h3>
-<h4>(Use after installing Python)</h4> <br>
+<h4>(Use after installing Python and Don't Copy The Last Bit If You Don't Want It To Automatically Run)</h4> <br>
 
 Copy then paste into terminal and press enter!: <br> 
 
